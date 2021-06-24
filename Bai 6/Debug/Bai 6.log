@@ -1,0 +1,15 @@
+﻿  XuLyBo.cpp
+  XuLyConVat.cpp
+  XuLyCuu.cpp
+  XuLyDe.cpp
+  main.cpp
+C:\Bai Tap\OOP\BtThucHanhTuan10\Bai 6\Bai 6\main.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+C:\Bai Tap\OOP\BtThucHanhTuan10\Bai 6\Bai 6\main.cpp(60,27): warning C4018: '<': signed/unsigned mismatch
+C:\Bai Tap\OOP\BtThucHanhTuan10\Bai 6\Bai 6\main.cpp(69,23): warning C4018: '<': signed/unsigned mismatch
+C:\Bai Tap\OOP\BtThucHanhTuan10\Bai 6\Bai 6\main.cpp(70,27): warning C4018: '<': signed/unsigned mismatch
+C:\Bai Tap\OOP\BtThucHanhTuan10\Bai 6\Bai 6\main.cpp(78,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Bai Tap\OOP\BtThucHanhTuan10\Bai 6\Bai 6\main.cpp(108,23): warning C4018: '<': signed/unsigned mismatch
+C:\Bai Tap\OOP\BtThucHanhTuan10\Bai 6\Bai 6\main.cpp(109,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LINK : C:\Bai Tap\OOP\BtThucHanhTuan10\Bai 6\Debug\Bai 6.exe not found or not built by the last incremental link; performing full link
+  Bai 6.vcxproj -> C:\Bai Tap\OOP\BtThucHanhTuan10\Bai 6\Debug\Bai 6.exe
